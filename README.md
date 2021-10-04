@@ -1,6 +1,6 @@
 # everforest-gtk
 
-A simele everforest gtk theme
+A simple everforest gtk theme
 
 ### Installation:
 
